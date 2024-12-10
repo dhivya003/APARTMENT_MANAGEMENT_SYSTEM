@@ -1,4 +1,5 @@
 Easy Apart - Apartment Management System 🏢✨
+
 Welcome to Easy Apart, a streamlined solution for apartment management, designed to simplify property management tasks while enhancing efficiency. This platform empowers administrators, supervisors, and employees to handle their responsibilities seamlessly, while tenants and owners can easily manage their payments and raise complaints online.
 
 📖 Overview
@@ -28,6 +29,7 @@ Database: PostgreSQL
 👥 Contributors
 Dhivya S
 Aspiring Full Stack Developer | Passionate about creating impactful digital solutions.
+
 📧 Contact
 If you have any questions, suggestions, or feedback, feel free to reach out!
-Email: your-email@example.com
+Email: dhivyasiva825@gmail.com
