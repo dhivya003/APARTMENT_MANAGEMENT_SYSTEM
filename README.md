@@ -39,7 +39,9 @@ Welcome to **Easy Apart**, a streamlined solution for apartment management, desi
   Skilled Developer | Striving to build seamless and efficient applications.  
 - **Sangeetha**  
   Creative Problem-Solver | Dedicated to delivering innovative and practical solutions.  
- 
+- **Arun Kumar**  
+  Dynamic Developer | Passionate about crafting robust and scalable systems.  
+
 
 ---
 
