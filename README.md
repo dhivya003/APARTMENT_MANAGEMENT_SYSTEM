@@ -34,7 +34,12 @@ Welcome to **Easy Apart**, a streamlined solution for apartment management, desi
 
 ## **👥 Contributors**  
 - **Dhivya S**  
-  Aspiring Full Stack Developer | Passionate about creating impactful digital solutions.  
+  Aspiring Full Stack Developer | Enthusiastic about creating impactful digital solutions.  
+- **Venizha**  
+  Skilled Developer | Striving to build seamless and efficient applications.  
+- **Sangeetha**  
+  Creative Problem-Solver | Dedicated to delivering innovative and practical solutions.  
+ 
 
 ---
 
