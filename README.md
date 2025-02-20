@@ -28,7 +28,9 @@ Welcome to **Easy Apart**, a streamlined solution for apartment management, desi
 ## **🛠️ Tech Stack**  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: PHP  
-- **Database**: PostgreSQL  
+- **Database**: PostgreSQL
+- 🔗 **LinkedIn Project Demo:** [View on LinkedIn](https://www.linkedin.com/posts/dhivyas03_i-am-very-excited-to-share-my-latest-project-activity-7199384125336637441-gmZj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEceklMB-0eCbkq7F-FC5K-wJQxA-e2lAus----)  
+
 
 ---
 
